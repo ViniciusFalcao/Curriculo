@@ -1,0 +1,46 @@
+.container{
+    width: 980px;
+    margin: 0px auto;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    
+}
+img{
+    position: absolute;
+    right: 25%;
+    top: 5px;
+}
+.titulo__secoes{
+    background-color: #f4f4f4;
+    margin-top: 1.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+}
+.titulo{
+    margin-left: 10px;
+}
+.p__pessoais{
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+}
+ul{
+    padding-left: 20px;
+}
+.li__titulo{
+    font-weight: bold;
+
+}
+.span__info{
+    font-size: 12px;
+    
+}
+.data{
+    position: absolute;
+    right: 300px;
+}
+.divvv li {
+    margin-top: 1rem;
+
+}
