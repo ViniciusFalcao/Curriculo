@@ -15,6 +15,7 @@ img{
     position: absolute;
     right: 17%;
     top: 5px;
+    margin-left: 2rem;
 }
 .titulo__secoes{
     background-color: #f4f4f4;
