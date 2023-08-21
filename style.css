@@ -34,6 +34,7 @@ img{
     display: inline-block;
     vertical-align: middle;
     font-weight: bold;
+    margin-left: 5px;
 }
 ul{
     padding-left: 20px;
