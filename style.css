@@ -10,6 +10,12 @@ body{
     font-weight: 500;
     
 }
+.name{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    font-weight: bold;
+}
 /**/
 .div_img{
     display: flex;
